@@ -10,10 +10,11 @@ const Header = () => {
       <div className="flex justify-between section-container">
         <a href="#home" className="link">
           <Image
-            src="/timbet.svg"
-            alt="Logo - Timbet Ekanem"
+            src="/ub.svg"
+            alt="Logo - Ubong Inyang"
             width={72}
             height={72}
+            className="text-white"
           />
         </a>
         <nav className={`outer-menu ${menuVisible ? "menu-visible" : ""}`}>

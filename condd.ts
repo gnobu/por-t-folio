@@ -1,5 +1,5 @@
 export const METADATA = {
-  title: "Portfolio | Timbet Ekanem",
+  title: "Portfolio | Ubong Inyang",
   description:
     "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
   siteUrl: "https://ayushsingh.net/",
@@ -34,18 +34,18 @@ export const TYPED_STRINGS = [
   "I design dynamic user experience",
 ];
 
-export const EMAIL = "timbetekanem@gmail.com";
+export const EMAIL = "inyangubong17@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/alphaayush/",
-  github: "https://github.com/ayush013",
-  medium: "https://alphaayush.medium.com/",
-  instagram: "https://www.instagram.com/alphaayush/",
-  facebook: "https://www.facebook.com/ayush013",
-  dribbble: "https://dribbble.com/alphaayush",
-  behance: "https://www.behance.net/alphaayush/",
-  twitter: "https://twitter.com/ayush013",
-  topmate: "https://www.topmate.io/alphaayush/",
+  linkedin: "https://www.linkedin.com/in/inyang-ubong/",
+  github: "https://github.com/gnobu",
+  medium: "",
+  instagram: "",
+  facebook: "",
+  dribbble: "",
+  behance: "",
+  twitter: "",
+  topmate: "",
 };
 
 export interface IProject {

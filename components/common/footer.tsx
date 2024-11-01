@@ -45,7 +45,7 @@ const Footer = () => {
           }}
         ></Button>
       </div>
-      <h2 className="text-center text-sm sm:text-base mt-8">Timbet Ekanem</h2>
+      <h2 className="text-center text-sm sm:text-base mt-8">Ubong Inyang</h2>
     </>
   );
 
